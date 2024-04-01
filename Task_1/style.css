@@ -103,9 +103,9 @@ footer {
         transform: translateX(0);
         opacity: 1;
     }
-    /* Code by Ayush Alapuriya */
 }
 
 .slide-in-right {
     animation: slideInFromRight 1s ease-out;
 }
+    /* Code by Ayush Alapuriya */
